@@ -1,6 +1,6 @@
 Hello there, this README file is going to explain to you how to run the project. 
 _______________________________________
-1 - download the files.
+1 - download the files
 
 2 - Enter any text in the "HelloWorld".txt file 
 
